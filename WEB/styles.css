@@ -19,10 +19,15 @@ header {
 header .contact, header .cart {
   font-size: 0.9rem;
 }
-header .logo img {
-  height: 110px;
-  border-radius: 50%;
+header .logo{
+  height: 100px;
 }
+header .logo img{
+  height: 110%;
+  weight: 100%
+  
+}
+
 .cart-button {
   padding: 0.5rem 1rem;
   background-color: #e63946;
